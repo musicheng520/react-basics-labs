@@ -46,3 +46,8 @@ div {
   font-weight: lighter;
   font-style: italic;
 }
+
+.priority{
+  font-size: 20px;
+  font-weight: bold;
+}
