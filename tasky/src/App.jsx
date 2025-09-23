@@ -43,6 +43,7 @@ return(
       key={task.id}
       deleteTask = {() => deleteHandler(index)}
       markDone={() => doneHandler(index)}
+      done={task.done}
     />
   ))} 
     </div>
